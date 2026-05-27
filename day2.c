@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    
     char name[50];
     int age;
 
@@ -15,3 +16,4 @@ int main() {
     printf("Day 2 bhi completed \n");
     return 0;
 }
+
